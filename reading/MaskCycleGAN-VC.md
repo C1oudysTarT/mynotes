@@ -2,9 +2,18 @@
 
 #### 来源与出处
 
+---
+
+
+
++ 日本NTT电讯公司实验室
 + 来自Cyclegan-VC2的同一组，ICASSP-21
 
 #### 创新点
+
+---
+
+
 
 + 针对CycleGAN-VC2中存在的捕捉时频结构能力不足、时频一致性损失较大的问题，提出使用FIF（即**填充帧**）的方式来解决此问题
 
@@ -15,4 +24,10 @@
 ![image-20220329231201452](https://raw.githubusercontent.com/C1oudysTarT/picgo/main/img/202203292312483.png)
 
 + 这种方法主要是受到图像修复等领域中的complementation-based自监督学习所启发。
+
+#### 尝试
+
+---
+
+
 
